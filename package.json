@@ -1,0 +1,27 @@
+{
+  "name": "devcamp",
+  "version": "1.0.0",
+  "description": "social media for developers",
+  "license": "ISC",
+  "author": "Akhilesh/Giriraj",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "node server"
+  },
+  "dependencies": {
+    "axios": "^1.18.1",
+    "bcryptjs": "^3.0.3",
+    "config": "^4.4.2",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.7.4"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.3",
+    "nodemon": "^3.1.14"
+  }
+}
