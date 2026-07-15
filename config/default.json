@@ -1,3 +1,4 @@
 {
-    "MongoUrl" : "mongodb+srv://AkhileshGupta:DevCamp123@devcamp.5cfidoq.mongodb.net/?appName=DevCamp"
+    "MongoUrl" : "mongodb+srv://AkhileshGupta:DevCamp123@devcamp.5cfidoq.mongodb.net/?appName=DevCamp",
+    "jwtSecret" : "mysecrettoken"
 }
