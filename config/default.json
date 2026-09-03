@@ -1,6 +1,0 @@
-{
-    "MongoUrl" : "mongodb+srv://AkhileshGupta:DevCamp123@devcamp.5cfidoq.mongodb.net/?appName=DevCamp",
-    "jwtSecret" : "mysecrettoken",
-    "githubClientId" : "Ov23lisoXnC4fJ000nh6",
-    "githubSecret" : "01b0169e85acaf098adf79f294725a5d061ed1c9"
-}
